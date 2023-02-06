@@ -1,9 +1,8 @@
 {
   "names": {
-    "dc": "npub1j6t73wu02ngjuauacgext0qf5up25ar3zfwvw0lxnh6uuq3h7k8qea7mae"
+    "dc": "9697e8bb8f54d12e779dc23265bc09a702aa7471125cc73fe69df5ce0237f58e"
   },
-
   "relays": {
-    "npub1j6t73wu02ngjuauacgext0qf5up25ar3zfwvw0lxnh6uuq3h7k8qea7mae": ["wss://relay.damus.io"]
+    "9697e8bb8f54d12e779dc23265bc09a702aa7471125cc73fe69df5ce0237f58e": ["wss://relay.damus.io"]
   }
 }
