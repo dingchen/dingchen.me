@@ -1,8 +1,5 @@
 {
   "names": {
     "dc": "9697e8bb8f54d12e779dc23265bc09a702aa7471125cc73fe69df5ce0237f58e"
-  },
-  "relays": {
-    "9697e8bb8f54d12e779dc23265bc09a702aa7471125cc73fe69df5ce0237f58e": ["wss://relay.damus.io"]
   }
 }
