@@ -1,1 +1,3 @@
-hello world
+- https://x.com/dingchen
+- dc@dingchen.me
+- dingchen.eth
